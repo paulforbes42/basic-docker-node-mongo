@@ -1,0 +1,14 @@
+{
+  "name": "docker-base",
+  "version": "1.0.0",
+  "description": "Basic Docker setup with MongoDB and NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Forbes <paulforbes42@gmail.com>",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
